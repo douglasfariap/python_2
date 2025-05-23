@@ -9,7 +9,7 @@ def uso_reduce(lista:list) -> int: #
 
 def uso_map(lista:list) -> list:
     '''
-    Recebe uma lista de intenrioso e retorna uma nova lista com os quadrados dos elementos da lista
+    Recebe uma lista de inteiros e retorna uma nova lista com os quadrados dos elementos da lista
 
     '''
     return list(map(lambda x:x**2, lista))
@@ -25,3 +25,6 @@ if __name__ == '__main__':
     lista = [1,2,3,4]
     soma = uso_reduce(lista)
     print(soma)
+
+    mapa= uso_map(lista)
+    print(mapa)
