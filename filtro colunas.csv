@@ -1,2 +1,29 @@
-gameid		league		split	participantid	side	position	playername		teamname		champion	ban1	ban2	ban3	ban4	ban5	gamelength	result	kills	deaths	assists	teamkills	teamdeaths	doublekills	triplekills	quadrakills	pentakills	
-firstblood	firsttower	towers		wardsplaced		totalgold		total cs	
+gameid		league		split	participantid	side	position	playername		teamname
+champion	ban1	ban2	ban3	ban4	ban5	gamelength	result	kills
+deaths	assists	teamkills	teamdeaths	doublekills	triplekills	quadrakills	pentakills	
+firstblood	firsttower	towers		wardsplaced		totalgold		total cs
+
+
+Filtros: 
+Selecione a liga
+Selecione os Times
+
+
+
+
+top Picks (champions)
+top 10 champs Bans 
+Resultados (times com mais vitorias)
+top kda (players com maior KDA AVG)
+Winrate (Lista de campeoes e o percentual de vitorias / picks)
+Winrate (percentual blue vs red)
+Winrate (based on numbers of wards placed) https://www.leagueofgraphs.com/stats/warding
+wards placed per role ( role / stat)
+creeps per minute Rank ( player / champ / stat)
+gold per minute ( player / champ / stat)
+
+% winrate after FBlood (blue e red)
+% winrate after FBrick (blue e red)
+
+TOP teamkills
+TOP teamdeaths
