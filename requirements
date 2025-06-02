@@ -1,0 +1,12 @@
+pip install streamlit
+pip install fastapi
+pip install flask
+pip install matplotlib
+pip install seaborn
+pip install sklearn
+pip install plotly
+pip install uvicorn
+pip install asyncio
+
+uvicorn app:app --reload
+streamlit run app.py
